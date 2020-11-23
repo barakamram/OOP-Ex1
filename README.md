@@ -41,7 +41,7 @@ myGraphAlgo represents the graph that the algorithm is used on.
 
 * `save(file)` a function that save the graph to a file and return true if the graph successfully saved and false if the graph unsuccessfully saved
 
-* load(file)` a function that load a file and build a graph and return true if the graph successfully loaded and false if the graph unsuccessfully loaded
+* `load(file)` a function that load a file and build a graph and return true if the graph successfully loaded and false if the graph unsuccessfully loaded
 
 
 
