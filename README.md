@@ -4,7 +4,7 @@ the algorithm is used to copy any graph, to retrieve if the graph is connected o
 *****************************************************************************************************
 
 
-myGraph displays the construction of the graph.
+myWeightedGraph displays the construction of the graph.
 
 * `addNode(node_data n)` a method that adds a new node to the graph with the given node.
 
@@ -27,7 +27,7 @@ myGraph displays the construction of the graph.
 * `getV(int node_id)` a method that returns a collection of all neighbors of the node.
 
 
-myGraphAlgo represents the graph that the algorithm is used on.
+myWeightedGraphAlgo represents the graph that the algorithm is used on.
 
 * `init(graph g)` a function that initilize the algorithm on given graph.
 
